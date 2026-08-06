@@ -11,7 +11,9 @@
     ],
     "sail": false,
     "skills": [
+        "infer-conventions",
         "laravel-best-practices",
+        "octane-development",
         "socialite-development",
         "pest-testing",
         "tailwindcss-development"
